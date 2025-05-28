@@ -1,2 +1,2 @@
 # sanika-demo
-this my first girhub repositories
+this my first github repositories
